@@ -10,7 +10,7 @@ THEME_NAME:=ifit
 THEME_TITLE:=ifit
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
-PKG_VERSION:=20200706
+PKG_VERSION:=20211021
 PKG_RELEASE:=0
 
 include $(INCLUDE_DIR)/package.mk
@@ -21,7 +21,7 @@ define Package/luci-theme-$(THEME_NAME)
   SUBMENU:=4. Themes
   DEPENDS:=+libc
   TITLE:=Infinity Freedom Theme
-  URL:=https://github.com/kenzok8/luci-theme-ifit
+  URL:=https://github.com/YL2209/luci-theme-ifit
   PKGARCH:=all
 endef
 
