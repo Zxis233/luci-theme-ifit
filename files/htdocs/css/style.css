@@ -109,6 +109,15 @@ div#maincontent div.container table.table tbody#tableBody{
     white-space: nowrap;
 }
 
+.emoji-icon {
+    width: 5%;
+}
+
+.author-blog {
+    text-decoration: none;
+    color: #ff7600;
+}
+
 .th {
     font-weight: bold;
 }
