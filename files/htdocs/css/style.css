@@ -190,7 +190,7 @@ body {
     height: 100%;
     font-family: Roboto,'Hiragino Sans GB W6','Microsoft Yahei' !important;
     line-height: 150%;
-    color:#ffffff;
+    color:#feeeed;
 	background: url('../images/main_bg.jpg');
 	background-repeat:no-repeat;
     background-attachment:fixed;
@@ -203,7 +203,7 @@ body div {
 }
 
 a {
-    color: #ffffff;
+    color: #feeeed;
     text-decoration: none;
 }
 
@@ -224,7 +224,7 @@ select {
 select,
 input,
 .cbi-dropdown {
-    color: #ffffff;
+    color: #feeeed;
     padding: 0px 10px;
     margin: 0;
     height: 34px;
@@ -324,7 +324,7 @@ footer > a {
     top: 50%;
     transform: translateY(-50%);
     margin: 0 auto;
-    color: #ffffff;
+    color: #feeeed;
     font-size: 2.5rem;
 }
 .main > .loading > span > .loading-img:before {
@@ -636,7 +636,7 @@ header > .container > .brand {
 
 .main > .main-left > .nav > li > a[data-title="Logout"]:before {
     content: "\ea14";
-	color: #ffffff !important;
+	color: #feeeed !important;
 	display: inline-block;
     top: -1px;
     left:-10px;
@@ -794,7 +794,7 @@ h3 {
 	line-height: 1.5;
 	margin-bottom: 0rem;
 	letter-spacing: 0.1rem;
-	color: #ffffff;
+	color: #feeeed;
 	font-weight: bold;
 	background: #07223e;
     transition: background .2s ease-in-out,border .2s ease-in-out,color .2s ease-in-out;
@@ -870,7 +870,7 @@ fieldset > fieldset {
 	line-height: 1.5;
 	margin-bottom: 0rem;
 	letter-spacing: 0.1rem;
-	color: #ffffff;
+	color: #feeeed;
 	font-weight: bold;
 }
 table,
@@ -885,7 +885,7 @@ table > tbody > tr > td, table > tbody > tr > th, table > tfoot > tr > td, table
 .table > .tbody > .tr > .td, .table > .tbody > .tr > .th, .table > .tfoot > .tr > .td, .table > .tfoot > .tr > .th, .table > .thead > .tr > .td, .table > .thead > .tr > .th {
 font-size: 1rem;
 	white-space: nowrap;
-	color: #ffffff;
+	color: #feeeed;
 	padding: 6px;
 	line-height: 1.5;
 	border-top: 1px solid rgb(7, 34, 62,.75);
@@ -1006,7 +1006,7 @@ td > table > tbody > tr > td,
 }
 .cbi-button-link:hover{
 	background-color:#81c784;
-	color:#ffffff;
+	color:#feeeed;
 }
 
 .cbi-button:hover,
@@ -1041,7 +1041,7 @@ form.inline + form.inline,
 
 .cbi-button-reset,
 .cbi-input-remove {
-	color: #ffffff !important;
+	color: #feeeed !important;
 	background-color: #ffb74d !important;
 	border-color: #ffb74d !important;
 }
@@ -1131,7 +1131,7 @@ form.inline + form.inline,
 .cbi-tabmenu>li>a,
 .tabs > li >a {
 	text-decoration: none;
-	color: #ffffff;
+	color: #feeeed;
 	padding: 0.5rem 0.8rem;
 	font-size: 1.1rem;
 }
@@ -1139,12 +1139,12 @@ form.inline + form.inline,
 .tabs > li:hover {
 	cursor: pointer;
 	border-bottom: 2px solid #ff8534;
-	color: #ffffff;
+	color: #feeeed;
 	margin-bottom: -0.2rem;
 }
 
 .tabs > li[class~="active"]>a {
-	color: #ffffff;
+	color: #feeeed;
 }
 /*
 .tabs > li:hover {
@@ -1792,7 +1792,7 @@ small {
     white-space: pre-wrap;
     word-wrap: break-word;
     font-size: 10pt;
-    color: #ffffff;
+    color: #feeeed;
 
 	background-color: rgba(7,34,62,.5);
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .16), 0 0 2px 0 rgba(0, 0, 0, .12);
@@ -1821,7 +1821,7 @@ header > .container > .pull-right > * {
     padding: 0.3rem 0.8rem;
     font-size: 10pt;
     font-weight: bold;
-    color: #ffffff !important;
+    color: #feeeed !important;
     text-transform: uppercase;
     white-space: nowrap;
     background-color: #bfbfbf;
@@ -1954,7 +1954,7 @@ header > .container > .pull-right > * {
 .node-system-reboot > .main > .main-right p,
 .node-system-reboot > .main > .main-right h3 {
 	font-size:1.2rem;
-	color:#ffffff;
+	color:#feeeed;
 	background-color: rgba(7,34,62,.4);
 }
 
@@ -1980,7 +1980,7 @@ header > .container > .pull-right > * {
 .node-system-packages > .main table tr td:nth-last-child(1) {
     white-space: normal;
     font-size: small;
-    color: #ffffff;
+    color: #feeeed;
 }
 
 .node-system-packages > .main .cbi-tabmenu > li > a, .tabs > li > a {
